@@ -9,7 +9,7 @@ PROJECT OVERVIEW:
 This project was completed as part of the Digital Literacy course. It focuses on developing essential digital skills required for students in today's digital world.
 The project includes practical tasks such as creating an infographic, building a professional digital portfolio, exploring online platforms, understanding email etiquette, and learning about cybercrime awareness.
 
-# Tasks Completed:
+#TASKS COMPLETED:
 Task 1: Infographic (Canva)
 Task 2: Digital Portfolio (Github, Linkedin)
 Task 3: HackRank + Google Form
