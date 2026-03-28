@@ -12,7 +12,7 @@ The project includes practical tasks such as creating an infographic, building a
 #TASKS COMPLETED:
 Task 1: Infographic (Canva)
 Task 2: Digital Portfolio (Github, Linkedin)
-Task 3: HackRank + Google Form
+Task 3: HackerRank + Google Form
 Task 4: Email Etiquette
 Task 5: Cybercrime Awareness
 
